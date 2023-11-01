@@ -1,0 +1,52 @@
+.container{
+    
+    margin: 0 auto;
+    max-width: 400px;
+    text-align: center;
+    padding:20px;
+    font-family: "Roboto",sans-serif;
+    background:  #50575e;
+    border-radius: 8px;
+    font-style: oblique;
+}
+
+.Title{
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.timer{
+    font-size: 72px;
+    color: white;   
+}
+
+ button {
+    font-size: 18px;
+    padding:10px 20px;
+    margin: 10px;
+    color:white;
+    background-color: #4a3200;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: opacity 0.3s ease-in-out;
+ }
+
+ button:hover {
+    opacity: 0.7px;
+ }
+ #start{
+    background-color: #68de7c;
+ }
+ #stop{
+    background-color: #691c1c;
+ }
+
+ #Reset{
+    background-color: #4a3200;
+
+ }
+
+
