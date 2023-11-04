@@ -1,4 +1,11 @@
 # Pomodore-Timer
+ Pomodoro timer with a 25-minute countdown, start, stop, and reset buttons for task-focused work, implemented using CSS for styling and JavaScript with event listeners and SetInterval for functionality.
+
+
+
+
+
+
 Pomodoro timer that features a countdown clock and three functional buttons, namely start, stop, and reset.
 Upon clicking the start button, the timer will commence counting down from 25 minutes. 
 Should one desire to halt the countdown, the stop button can be pressed. 
